@@ -1,0 +1,14 @@
+.card-contador{
+    border-radius: 1rem;
+    background-color: lightgray;
+    
+
+    
+}
+.card{
+    border-color: black;
+    border-radius: 10px;
+}
+.boton{
+    padding-left: 10%;
+}
